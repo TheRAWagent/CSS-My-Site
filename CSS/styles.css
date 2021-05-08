@@ -1,0 +1,45 @@
+body
+{
+  background-color: #806066;
+}
+/*div
+{
+  background-color: green;
+  border-style: dashed;
+  border-width: medium;
+}*/
+.class1:hover
+{
+  background-color: brown;
+  left: 400px;
+  position: relative;
+}
+p
+{
+  text-align: center;
+}
+h1
+{
+  margin-top: 0;
+  text-align: center;
+}
+.class1
+{
+  background-color: #876549;
+  border: solid 12px;
+  height: 200px;
+  width: 200px;
+
+}
+.class2{
+  background-color: green;
+  border: solid 14px;
+  height: 200px;
+  width: 200px;
+}
+.a{
+  background-color: orange;
+  border: solid 10px;
+  height: 200px;
+  width: 200px;
+}
